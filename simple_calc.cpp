@@ -11,4 +11,5 @@ int add(int a, int b){
 int main() {
   int a=4, b=5;
   cout<<add(a,b)<<endl;
+  return 0;
 }
